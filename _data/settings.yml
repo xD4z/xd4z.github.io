@@ -8,14 +8,15 @@ google-ID: ''
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Posts', url: 'writing.html'}
+- {name: 'Contacto', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github',     link: 'https://www.github.com/xd4z'}
-- {icon: 'twitter',    link: 'https://twitter.com/xd4z'}
+- {icon: 'twitter',    link: 'https://twitter.com/_xd4z'}
 - {icon: 'envelope',   link: 'mailto:xd4znull@gmail.com'}
+- {icon: 'cube',   link: 'https://app.hackthebox.com/profile/1235220'}
 - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
